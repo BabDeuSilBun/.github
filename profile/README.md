@@ -1,8 +1,5 @@
-<div align="right">
 
 [<img src="https://img.shields.io/badge/bdsb notion-6f6cf6?style=flat&logo=google-chrome&logoColor=white" />](https://chaen-notio.notion.site/29c9baa2ab4141bab4855cdb634fe565)
-
-<div align="left">
 
 # 밥드실분 🍕🍔🍟🌭🥗 ❗
 저랑 같이 배달 시켜 먹을 사람 구해요 👍
@@ -86,4 +83,4 @@ GIF와 이미지
 | FE: 박채원 | FE: Liz Chung | BE: 홍석형 | BE: 안민지 | BE: 조근호 | 
 |:-:|:-:|:-:|:-:|:-:|
 | <img src="https://github.com/pcwadarong.png" alt="pcwadarong image" width="100" height="100"> | <img src="https://github.com/Liz-Chung.png" alt="liz-chung image" width="100" height="100">|<img src="https://github.com/seokhyeong9171.png" alt="seokhyeong9171 image" width="100" height="100"> | <img src="https://github.com/amj9843.png" alt="amj9843 image" width="100" height="100"> | <img src="https://github.com/rrr7777777goo.png" alt="rrr7777777goo image" width="100" height="100">|
-| [pcwadarong](https://github.com/pcwadarong)  |  [Liz-Chung](https://github.com/Liz-Chung)  |  [seokhyeong9171](https://github.com/)  |  [amj9843](https://github.com/amj9843)  |  [rrr7777777goo](https://github.com/rrr7777777goo)  |
+| [pcwadarong](https://github.com/pcwadarong)  |  [Liz-Chung](https://github.com/Liz-Chung)  |  [seokhyeong9171](https://github.com/seokhyeong9171)  |  [amj9843](https://github.com/amj9843)  |  [rrr7777777goo](https://github.com/rrr7777777goo)  |
