@@ -76,6 +76,10 @@ GIF와 이미지
 <br />
 
 ### ⚙️ Infrastructure
+<div>
+ <img src="https://github.com/user-attachments/assets/a56b805e-d8f3-4665-89eb-8267a0eb679c" alt="ERD" width='48%'/>
+ <img src="https://github.com/user-attachments/assets/b22e7566-bb31-4464-bf05-c439e8695dda" alt="diagramImage" width='48%'/>
+</div>
 
 <br />
 
