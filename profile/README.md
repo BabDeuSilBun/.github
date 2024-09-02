@@ -70,7 +70,18 @@ GIF와 이미지
 
 ### Back-end
 <div>
-  <img src="https://img.shields.io/badge/Java-6f6cf6?style=flat&logo=java&logoColor=white" alt="JAVA"/>
+ <img src="https://img.shields.io/badge/Java-6f6cf6?style=flat&logo=java&logoColor=white" alt="JAVA"/>
+ <img src="https://img.shields.io/badge/Spring Boot-6f6cf6?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
+ <img src="https://img.shields.io/badge/Spring Security-6f6cf6?style=flat&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+ <img src="https://img.shields.io/badge/JPA-6f6cf6?style=flat&logo=jpa&logoColor=white" alt="JPA"/>
+ <img src="https://img.shields.io/badge/QueryDSL-6f6cf6?style=flat&logo=java&logoColor=white" alt="QueryDSL"/>
+ <img src="https://img.shields.io/badge/Swagger-6f6cf6?style=flat&logo=swagger&logoColor=white" alt="Swagger"/>
+ <img src="https://img.shields.io/badge/JWT-6f6cf6?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+ <img src="https://img.shields.io/badge/Redis-6f6cf6?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+ <img src="https://img.shields.io/badge/MariaDB-6f6cf6?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/>
+ <img src="https://img.shields.io/badge/SMTP-6f6cf6?style=flat&logo=smtp&logoColor=white" alt="SMTP"/>
+ <img src="https://img.shields.io/badge/WebSocket-6f6cf6?style=flat&logo=websocket&logoColor=white" alt="WebSocket"/>
+ <img src="https://img.shields.io/badge/STOMP-6f6cf6?style=flat&logo=stomp&logoColor=white" alt="STOMP"/>
 </div>
 
 <br />
