@@ -79,7 +79,6 @@ GIF와 이미지
  <img src="https://img.shields.io/badge/JWT-6f6cf6?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
  <img src="https://img.shields.io/badge/Redis-6f6cf6?style=flat&logo=redis&logoColor=white" alt="Redis"/>
  <img src="https://img.shields.io/badge/MariaDB-6f6cf6?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/>
- <img src="https://img.shields.io/badge/SMTP-6f6cf6?style=flat&logo=smtp&logoColor=white" alt="SMTP"/>
  <img src="https://img.shields.io/badge/WebSocket-6f6cf6?style=flat&logo=websocket&logoColor=white" alt="WebSocket"/>
  <img src="https://img.shields.io/badge/STOMP-6f6cf6?style=flat&logo=stomp&logoColor=white" alt="STOMP"/>
 </div>
