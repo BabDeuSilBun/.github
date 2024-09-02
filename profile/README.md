@@ -60,9 +60,10 @@ GIF와 이미지
   <img src="https://img.shields.io/badge/Tanstack Query-6f6cf6?style=flat&logo=reactquery&logoColor=white" alt="Tanstack Query"/>
   <img src="https://img.shields.io/badge/🐻 Zustand-6f6cf6?style=flat&logo=none&logoColor=white" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Axios-6f6cf6?style=flat&logo=axios&logoColor=white" alt="Axios"/>
-  <img src="https://img.shields.io/badge/Jest-6f6cf6?style=flat&logo=jest&logoColor=white" alt="Jest"/>
-  <img src="https://img.shields.io/badge/React Testing Library-6f6cf6?style=flat&logo=testinglibrary&logoColor=white" alt="React Testing Library"/>
-   <img src="https://img.shields.io/badge/MSW-6f6cf6?style=flat&logo=mockServiceWorker&logoColor=white" alt="MSW"/>
+  <img src="https://img.shields.io/badge/JWT-6f6cf6?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/MSW-6f6cf6?style=flat&logo=mockServiceWorker&logoColor=white" alt="MSW"/>
+  <img src="https://img.shields.io/badge/STOMP.js-6f6cf6?style=flat&logo=stomp&logoColor=white" alt="STOMP"/>
+  <img src="https://img.shields.io/badge/Sockjs-6f6cf6?style=flat&logo=stomp&logoColor=white" alt="Sockjs"/>
   <img src="https://img.shields.io/badge/Prettier-6f6cf6?style=flat&logo=prettier&logoColor=white" alt="Prettier"/>
   <img src="https://img.shields.io/badge/Eslint-6f6cf6?style=flat&logo=eslint&logoColor=white" alt="ESlint"/>
   <img src="https://img.shields.io/badge/Figma-6f6cf6?style=flat&logo=Figma&logoColor=white" alt="Figma"/>
